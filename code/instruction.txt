@@ -1,0 +1,4 @@
+1.dataにtrain.csvとtest.csvを格納
+2.preprocessing.py実行>>preprocessed_dataに前処理済みのpickleファイルが作成される
+3.train.py実行>>trained_modelに学習済みモデルのpickleファイルが作成される
+4.test.py実行>>submitに予測結果のcsvファイルが作成される
